@@ -904,35 +904,31 @@ const toggleDark = useToggle(isDark);
                                   </div>
                                   <div
                                       class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/BTC.png" alt="img">
+                                    <img src="/assets/img/bank/visa.jpg" alt="img">
                                   </div>
                                   <div
                                       class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/DOGE.png" alt="img">
+                                    <img src="/assets/img/bank/mastercard.jpg" alt="img">
                                   </div>
                                   <div
                                       class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/ETH.png" alt="img">
+                                    <img src="/assets/img/bank/stripe.jpg" alt="img">
                                   </div>
                                   <div
                                       class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/LTC.png" alt="img">
+                                    <img src="/assets/img/bank/nets.jpg" alt="img">
                                   </div>
                                   <div
                                       class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/Perfect_money.png" alt="img">
+                                    <img src="/assets/img/bank/paylah.jpg" alt="img">
                                   </div>
                                   <div
                                       class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/SOLANA.png" alt="img">
+                                    <img src="/assets/img/bank/paynow.jpg" alt="img">
                                   </div>
                                   <div
                                       class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/USDC.png" alt="img">
-                                  </div>
-                                  <div
-                                      class="thumb bg-white w-[85px] p-[10px] my-[5px] shadow-[0_1px_7px_rgba(0,0,0,0.15)] rounded-[5px]">
-                                    <img src="/assets/img/bank/USDT.png" alt="img">
+                                    <img src="/assets/img/bank/payanyone.jpg" alt="img">
                                   </div>
                                 </div>
                               </div>
