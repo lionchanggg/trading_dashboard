@@ -111,7 +111,7 @@ const toggleDark = useToggle(isDark);
                 </router-link>
               </li>
               <li class="group">
-                <router-link to="/login"
+                <router-link to="/"
                              class="flex items-center text-[#4A485F] text-[18px] leading-[1.5] tracking-[-0.05px] py-[10px] transition-all duration-350 ease-linear group-hover:text-primary dark:text-white dark:group-hover:text-primary">
                   <svg
                       class="w-[22px] h-[22px] mr-[10px] fill-[#4A485F] transition-all duration-350 ease-linear group-hover:!fill-primary dark:fill-white dark:group-hover:!fill-primary"
