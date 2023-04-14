@@ -214,11 +214,11 @@ const toggleDark = useToggle(isDark);
         </li>
       </ul>
     </div>
-    <div class="app-info" :class="isSidebar ? 'flex' : 'xl:hidden'">
+    <!-- <div class="app-info" :class="isSidebar ? 'flex' : 'xl:hidden'">
       <span>Available On</span>
       <a href="#"><img src="/assets/img/icon/play-store.png" alt="icon"></a>
       <a href="#"><img src="/assets/img/icon/apple-store.png" alt="icon"></a>
-    </div>
+    </div> -->
     <div class="app-bottom" :class="isSidebar ? 'block' : 'xl:hidden'">
       <div class="app-account">
         <h4>Start New <span>Account</span></h4>
