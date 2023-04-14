@@ -216,7 +216,7 @@ const toggleDark = useToggle(isDark);
         </li>
       </ul>
     </div>
-    <div class="app-bottom" :class="isSidebar ? 'block' : 'xl:hidden'">
+    <!-- <div class="app-bottom" :class="isSidebar ? 'block' : 'xl:hidden'">
       <div class="app-account">
         <h4>Start New <span>Account</span></h4>
         <div class="thumb">
@@ -224,7 +224,7 @@ const toggleDark = useToggle(isDark);
         </div>
         <a href="#" class="app-btn">Get Funded Now</a>
       </div>
-    </div>
+    </div> -->
     <div class="sidebar-shape-1"></div>
     <div class="sidebar-shape-2"></div>
   </aside>
