@@ -302,7 +302,7 @@ const toggleDark = useToggle(isDark);
                           </p>
                           <p class="flex flex-wrap items-center justify-between text-dark text-[18px] leading-[1.5] tracking-[-0.05px] mb-[15px] dark:text-white">
                             <span>Max. Loss recorded</span>
-                            <span class="text-primary">$1000</span>
+                            <span class="text-primary">$500</span>
                           </p>
                           <p>
                             <span class="text-primary bg-primary/20 text-[14px] py-[6px] px-[16px] rounded-[5px]">Ongoing</span>
@@ -324,7 +324,7 @@ const toggleDark = useToggle(isDark);
                           </p>
                           <p class="flex flex-wrap items-center justify-between text-dark text-[18px] leading-[1.5] tracking-[-0.05px] mb-[15px] dark:text-white">
                             <span>Max. Loss</span>
-                            <span>$2750</span>
+                            <span>$2500</span>
                           </p>
                           <p class="flex flex-wrap items-center justify-between text-dark text-[18px] leading-[1.5] tracking-[-0.05px] mb-[15px] dark:text-white">
                             <span>Max. Loss recorded</span>
@@ -374,7 +374,7 @@ const toggleDark = useToggle(isDark);
                         Max Permitted Loss
                       </p>
                       <p class="text-primary bg-primary/20 text-[18px] font-bold py-[6px] px-[16px] rounded-[5px] dark:text-white dark:bg-primary">
-                        $1500
+                        $2500
                       </p>
                     </div>
                   </div>
@@ -546,7 +546,7 @@ const toggleDark = useToggle(isDark);
                       </p>
                     </div>
                     <div class="numb text-dark text-[18px] leading-[1.5] tracking-[-0.05px] dark:text-white">
-                      $58500.00
+                      $25500.00
                     </div>
                   </div>
                   <div
@@ -564,7 +564,7 @@ const toggleDark = useToggle(isDark);
                       </p>
                     </div>
                     <div class="numb text-dark text-[18px] leading-[1.5] tracking-[-0.05px] py-[15px] dark:text-white">
-                      $50000.00
+                      $25000.00
                     </div>
                   </div>
                   <div
@@ -602,7 +602,7 @@ const toggleDark = useToggle(isDark);
                       </p>
                     </div>
                     <div class="numb text-dark text-[18px] leading-[1.5] tracking-[-0.05px] py-[15px] dark:text-white">
-                      -$20.00
+                      -$30.00
                     </div>
                   </div>
                   <div
@@ -612,7 +612,7 @@ const toggleDark = useToggle(isDark);
                         <img class="inline-block w-[20px] h-[20px] mr-[5px]"
                              src="/assets/img/icon/icon-line-chart-down.svg"
                              alt="icon">
-                        Avg. Losing Trade
+                        Number of Trades
                         <svg class="inline-block w-[17px] h-[17px] fill-dark ml-[5px] dark:fill-white" focusable="false"
                              viewBox="0 0 24 24" aria-hidden="true">
                           <path
@@ -631,7 +631,7 @@ const toggleDark = useToggle(isDark);
                         <img class="inline-block w-[20px] h-[20px] mr-[5px]"
                              src="/assets/img/icon/icon-grid.svg"
                              alt="icon">
-                        Avg. Losing Trade
+                        Unit
                         <svg class="inline-block w-[17px] h-[17px] fill-dark ml-[5px] dark:fill-white" focusable="false"
                              viewBox="0 0 24 24" aria-hidden="true">
                           <path
@@ -659,7 +659,7 @@ const toggleDark = useToggle(isDark);
                       </p>
                     </div>
                     <div class="numb text-dark text-[18px] leading-[1.5] tracking-[-0.05px] py-[15px] dark:text-white">
-                      0
+                      1.65
                     </div>
                   </div>
                   <div class="stats-list flex flex-wrap items-center justify-between mb-[15px] ">
@@ -677,7 +677,7 @@ const toggleDark = useToggle(isDark);
                       </p>
                     </div>
                     <div class="numb text-dark text-[18px] leading-[1.5] tracking-[-0.05px] py-[15px] dark:text-white">
-                      65%
+                      55%
                     </div>
                   </div>
               </div>
@@ -759,7 +759,7 @@ const toggleDark = useToggle(isDark);
                         $54.46
                       </p>
                       <p class="text-[14px] text-dark leading-[1.5] tracking-[-0.05px] dark:text-white">
-                        -$236.00
+                        -$2.00
                       </p>
                       <p class="text-[14px] text-dark leading-[1.5] tracking-[-0.05px] dark:text-white">
                         0
@@ -799,7 +799,7 @@ const toggleDark = useToggle(isDark);
                         $54.46
                       </p>
                       <p class="text-[14px] text-dark leading-[1.5] tracking-[-0.05px] dark:text-white">
-                        -$236.00
+                        -$2.00
                       </p>
                       <p class="text-[14px] text-dark leading-[1.5] tracking-[-0.05px] dark:text-white">
                         0
@@ -839,7 +839,7 @@ const toggleDark = useToggle(isDark);
                         $54.46
                       </p>
                       <p class="text-[14px] text-dark leading-[1.5] tracking-[-0.05px] dark:text-white">
-                        -$236.00
+                        -$2.00
                       </p>
                       <p class="text-[14px] text-dark leading-[1.5] tracking-[-0.05px] dark:text-white">
                         0

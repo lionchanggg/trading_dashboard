@@ -265,8 +265,8 @@ const toggleDark = useToggle(isDark);
                         </svg>
                       </button>
                     </div>
-                    <h4 class="text-dark font-semibold 2xl:text-[18px] text-[14px] dark:text-white">mikha dev</h4>
-                    <p class="text-dark 2xl:text-[18px] text-[14px] mb-[10px] dark:text-white/70">mikha.dev@gmail.com</p>
+                    <h4 class="text-dark font-semibold 2xl:text-[18px] text-[14px] dark:text-white">Ryan Chang</h4>
+                    <p class="text-dark 2xl:text-[18px] text-[14px] mb-[10px] dark:text-white/70">rchang0726@gmail.com</p>
                     <p class="text-primary text-[13px] flex items-center justify-center">
                       <svg class="w-[14px] h-[14px] fill-primary mr-[5px]" focusable="false" viewBox="0 0 24 24"
                            aria-hidden="true">
