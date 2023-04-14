@@ -11,8 +11,8 @@ const toggleDark = useToggle(isDark);
       <div class="header-left flex justify-between items-center">
         <div class="logo h-[80px] flex items-center">
           <router-link to="/">
-            <img class="inline-block h-[50px] hidden dark:block" src="/assets/img/logo/logo-s.png" alt="logo">
-            <img class="inline-block h-[50px] block dark:hidden" src="/assets/img/logo/logo-dark.png" alt="logo">
+            <img class="inline-block h-[120px] hidden dark:block" src="/assets/img/logo/logo-s.png" alt="logo">
+            <img class="inline-block h-[120px] block dark:hidden" src="/assets/img/logo/logo-dark.png" alt="logo">
           </router-link>
         </div>
         <button
