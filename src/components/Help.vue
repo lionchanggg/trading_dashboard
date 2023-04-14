@@ -480,7 +480,7 @@ const toggleDark = useToggle(isDark);
                     </div>
                   </div>
                   <!-- express faq-->
-                  <div
+                  <!-- <div
                       class="faq-toggle-wrap border-[#F2F2F2] border-[1px] shadow-[0px_2.13333px_90.6667px_rgba(217,225,255,0.59)] my-2 dark:shadow-[0px_2.13333px_10.6667px_rgba(217,225,255,0.59)] dark:bg-toggle">
                     <div
                         class="faq-toggle-head flex items-center justify-between py-[16px] px-[32px] cursor-pointer dark:bg-toggle"
@@ -526,7 +526,7 @@ const toggleDark = useToggle(isDark);
                         DO I ACTUALLY TRADE ON A LIVE ACCOUNT?
                       </button>
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -586,7 +586,7 @@ const toggleDark = useToggle(isDark);
                 <div
                     class="faq-nav-wrap bg-white xl:px-[56px] lg:px-[30px] py-[48px] overflow-y-scroll scrollbar-gray dark:bg-dark">
                   <!-- express rules-->
-                  <div
+                  <!-- <div
                       class="faq-toggle-wrap border-[#F2F2F2] border-[1px] shadow-[0px_2.13333px_90.6667px_rgba(217,225,255,0.59)] my-2 dark:bg-toggle dark:shadow-[0px_2.13333px_10.6667px_rgba(217,225,255,0.59)]">
                     <div class="faq-toggle-head flex items-center justify-between py-[16px] px-[32px] cursor-pointer"
                          @click="rulesCollapse(1)">
@@ -613,13 +613,13 @@ const toggleDark = useToggle(isDark);
                         WHAT IS THE MAXIMUM FUNDING A TRADER CAN GET?
                       </button>
                     </div>
-                  </div>
+                  </div> -->
                   <!-- evaluation rules-->
                   <div
                       class="faq-toggle-wrap border-[#F2F2F2] border-[1px] shadow-[0px_2.13333px_90.6667px_rgba(217,225,255,0.59)] my-2 dark:bg-toggle dark:shadow-[0px_2.13333px_10.6667px_rgba(217,225,255,0.59)]">
                     <div
                         class="faq-toggle-head flex items-center justify-between py-[16px] px-[32px] cursor-pointer dark:bg-toggle"
-                        @click="rulesCollapse(2)">
+                        @click="rulesCollapse(1)">
                       <h4 class="text-dark text-[18px] font-semibold dark:text-white">Evaluation Rule</h4>
                       <svg :class="{'rotate-0': openRulesCollapse !== 2, 'rotate-180': openRulesCollapse === 2}"
                            width="11" height="7" viewBox="0 0 11 7" fill="none" xmlns="http://www.w3.org/2000/svg"
