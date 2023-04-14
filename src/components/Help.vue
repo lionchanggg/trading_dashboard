@@ -621,7 +621,7 @@ const toggleDark = useToggle(isDark);
                         class="faq-toggle-head flex items-center justify-between py-[16px] px-[32px] cursor-pointer dark:bg-toggle"
                         @click="rulesCollapse(1)">
                       <h4 class="text-dark text-[18px] font-semibold dark:text-white">Evaluation Rule</h4>
-                      <svg :class="{'rotate-0': openRulesCollapse !== 2, 'rotate-180': openRulesCollapse === 2}"
+                      <svg :class="{'rotate-0': openRulesCollapse !== 1, 'rotate-180': openRulesCollapse === 1}"
                            width="11" height="7" viewBox="0 0 11 7" fill="none" xmlns="http://www.w3.org/2000/svg"
                            class="fill-dark dark:fill-white">
                         <path
