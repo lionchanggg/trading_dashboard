@@ -320,14 +320,14 @@ const toggleDark = useToggle(isDark);
                                 </h2>
                                 <div class="plan-tab-nav text-center">
                                   <ul class="relative z-20 mx-auto mb-[40px] inline-flex items-center rounded-[100px] overflow-hidden shadow-[0_4px_10px_rgba(64,123,255,0.13)]">
-                                    <li class="inline-block">
+                                    <!-- <li class="inline-block">
                                       <button
                                           class="md:w-[160px] w-[100px] text-center md:text-[16px] text-[13px] md:px-[30px] px-[15px] py-[12px] rounded-[100px]"
                                           @click="toggleTabs2(1)"
                                           :class="{'text-dark dark:text-white': openTab2 !== 1, 'text-white': openTab2 === 1}">
                                         Express
                                       </button>
-                                    </li>
+                                    </li> -->
                                     <li class="inline-block">
                                       <button
                                           class="md:w-[160px] w-[100px] text-center md:text-[16px] text-[13px] md:px-[30px] px-[15px] py-[12px] rounded-[100px]"
@@ -340,7 +340,7 @@ const toggleDark = useToggle(isDark);
                                         :class="{'md:translate-x-[160px] translate-x-[100px]': openTab2 !== 1, 'translate-x-[0]': openTab2 === 1}"></li>
                                   </ul>
                                 </div>
-                                <div :class="{'hidden': openTab2 !== 1, 'block': openTab2 === 1}">
+                                <!-- <div :class="{'hidden': openTab2 !== 1, 'block': openTab2 === 1}">
                                   <div class="flex flex-wrap 2xl:justify-start justify-center mx-[-15px]">
                                     <div class="2xl:w-4/12 xl:w-4/12 lg:w-5/12 md:w-6/12 w-full px-[15px]">
                                       <div class="bg-[#F5F9FF] rounded-[10px] mb-[30px]">
@@ -541,7 +541,7 @@ const toggleDark = useToggle(isDark);
                                       </div>
                                     </div>
                                   </div>
-                                </div>
+                                </div> -->
                                 <div :class="{'hidden': openTab2 !== 2, 'block': openTab2 === 2}">
                                   <div class="flex flex-wrap 2xl:justify-start justify-center mx-[-15px]">
                                     <div class="2xl:w-3/12 xl:w-4/12 lg:w-5/12 md:w-6/12 w-full px-[15px]">
