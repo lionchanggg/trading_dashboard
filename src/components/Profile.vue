@@ -69,7 +69,7 @@ const toggleDark = useToggle(isDark);
             <img class="w-[40px] h-[40px] rounded-[5px]" src="/assets/img/author/author.jpeg" alt="author">
           </div>
           <div class="name ml-[15px]">
-            d4t
+            Ryan
             <svg class="inline-block w-[24px] h-[24px] fill-dark dark:fill-white" focusable="false" viewBox="0 0 24 24" aria-hidden="true">
               <path d="M7 10l5 5 5-5z"></path>
             </svg>
@@ -88,7 +88,7 @@ const toggleDark = useToggle(isDark);
             <ul>
               <li class="border-b border-[#DFE5F2]">
                 <a href="#" class="block text-primary text-[18px] leading-[1.5] tracking-[-0.05px] py-[10px] dark:group-hover:!fill-primary">
-                  mikha.dev@gmail.com
+                  rchang0726@gmail.com
                 </a>
               </li>
               <li class="border-b border-[#DFE5F2] group">
@@ -130,8 +130,8 @@ const toggleDark = useToggle(isDark);
     </div>
     <div class="lg:hidden flex flex-wrap flex-col items-center justify-center">
       <img class="w-[55px] h-[55px] rounded-full" src="/assets/img/author/author.jpeg" alt="author">
-      <h4 class="text-white text-[15px] mt-[8px]">mikha dev</h4>
-      <p class="text-primary text-[12px] mt-[8px]">mikha.dev@gmail.com</p>
+      <h4 class="text-white text-[15px] mt-[8px]">Ryan Chang</h4>
+      <p class="text-primary text-[12px] mt-[8px]">rchang0726@gmail.com</p>
     </div>
     <div class="main-menu">
       <ul class="nav">
@@ -327,10 +327,8 @@ const toggleDark = useToggle(isDark);
                           <select
                               class="absolute left-0 top-0 xl:w-[180px] w-[120px] xl:h-[60px] h-[50px] xl:text-[16px] text-[14px] text-dark border border-[#dad7ff] xl:px-[30px] px-[15px] outline-0 rounded-[10px] focus:border-primary placeholder-dark/60 focus:placeholder-transparent appearance-none">
                             <option>Mobile Code</option>
-                            <option>+93 (FA)</option>
-                            <option>+93 (FA)</option>
-                            <option>+93 (FA)</option>
-                            <option>+93 (FA)</option>
+                            <option>+65 (SG)</option>
+                            <option>+60 (MY)</option>
                           </select>
                           <input
                               class="w-full xl:h-[60px] h-[50px] xl:text-[16px] text-[14px] text-dark border border-[#dad7ff] px-[30px] outline-0 rounded-[10px] focus:border-primary placeholder-dark/60 focus:placeholder-transparent"
@@ -341,8 +339,8 @@ const toggleDark = useToggle(isDark);
                         <div class="input-wrap mb-[30px]">
                           <select
                               class="w-full xl:h-[60px] h-[50px] xl:text-[16px] text-[14px] text-dark border border-[#dad7ff] px-[30px] outline-0 rounded-[10px] focus:border-primary placeholder-dark/60 focus:placeholder-transparent appearance-none">
-                            <option>Canada</option>
-                            <option>USA</option>
+                            <option>Singapore</option>
+                            <option>Malaysia</option>
                           </select>
                         </div>
                       </div>
