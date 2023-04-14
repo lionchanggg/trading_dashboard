@@ -123,9 +123,9 @@ const toggleDark = useToggle(isDark);
        :class="isMenubar ? 'fixed z-[99] left-0 top-0 w-full h-full bg-dark/80 cursor-pointer' : 'hidden'"
        @click="isMenubar = !isMenubar"></div>
   <aside class="sidebar" :class="[isSidebar ? 'sidebar' : 'sidebar-toggle xl:!w-[73px]', isMenubar ? '!left-0' : '']">
-    <div class="logo text-center h-[80px] flex items-center justify-center">
+    <div class="logo text-center h-[50px] flex items-center justify-center">
       <router-link to="/">
-        <img class="inline-block h-[50px]" src="/assets/img/logo/funding-talents.png" alt="logo">
+        <img class="inline-block h-[100px]" src="/assets/img/logo/funding-talents.png" alt="logo">
       </router-link>
     </div>
     <div class="lg:hidden flex flex-wrap flex-col items-center justify-center">
