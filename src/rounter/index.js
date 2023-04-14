@@ -46,11 +46,11 @@ const routes = [
         name: 'Billing',
         component: Billing
     },
-    {
-        path: '/news-calendar',
-        name: 'NewsCalendar',
-        component: NewsCalendar
-    },
+    // {
+    //     path: '/news-calendar',
+    //     name: 'NewsCalendar',
+    //     component: NewsCalendar
+    // },
     {
         path: '/help',
         name: 'Help',

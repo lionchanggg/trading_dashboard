@@ -186,7 +186,7 @@ const toggleDark = useToggle(isDark);
             <span class="text">Billing</span>
           </router-link>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <router-link to="/news-calendar" class="nav-link group">
             <svg class="nav-icon" focusable="false" viewBox="0 0 24 24" aria-hidden="true">
               <path
@@ -194,7 +194,7 @@ const toggleDark = useToggle(isDark);
             </svg>
             <span class="text">News Calendar</span>
           </router-link>
-        </li>
+        </li> -->
         <li class="nav-item">
           <router-link to="/help" class="nav-link group">
             <svg class="nav-icon" focusable="false" viewBox="0 0 24 24" aria-hidden="true">
@@ -257,7 +257,7 @@ const toggleDark = useToggle(isDark);
                     </svg>
                   </div>
                   <div class="content">
-                    <h2>$1500.00</h2>
+                    <h2>+ $1500.00</h2>
                     <p>profit/loss</p>
                   </div>
                   <div class="shape-bg">
