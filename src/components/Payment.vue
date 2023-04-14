@@ -336,61 +336,61 @@
                   </div>
                   <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
-                      <img class="w-full" src="/assets/img/bank/btc.svg" alt="bank">
+                      <img class="w-full" src="/assets/img/bank/visa.jpg" alt="bank">
                     </div>
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
-                      BitCoin
+                      Visa
                     </span>
                   </div>
                   <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
-                      <img class="w-full" src="/assets/img/bank/eth.svg" alt="bank">
+                      <img class="w-full" src="/assets/img/bank/mastercard.png" alt="bank">
                     </div>
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
-                      Ethereum
+                      Mastercard
                     </span>
                   </div>
                   <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
-                      <img class="w-full" src="/assets/img/bank/solana.svg" alt="bank">
+                      <img class="w-full" src="/assets/img/bank/stripe.png" alt="bank">
                     </div>
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
-                      Solana
+                      Stripe
                     </span>
                   </div>
                   <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
-                      <img class="w-full" src="/assets/img/bank/usdc.svg" alt="bank">
+                      <img class="w-full" src="/assets/img/bank/nets.png" alt="bank">
                     </div>
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
-                      USDC(ERC20)
+                      NETS
                     </span>
                   </div>
                   <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
-                      <img class="w-full" src="/assets/img/bank/usdc-trc20.svg" alt="bank">
+                      <img class="w-full" src="/assets/img/bank/paylah.png" alt="bank">
                     </div>
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
-                      USDC(TRC20)
+                      PayLah
                     </span>
                   </div>
                   <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
-                      <img class="w-full" src="/assets/img/bank/perfect-money.svg" alt="bank">
+                      <img class="w-full" src="/assets/img/bank/paynow.png" alt="bank">
                     </div>
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
-                      Perfect Money
+                      PayNow
                     </span>
                   </div>
                   <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
-                      <img class="w-full" src="/assets/img/bank/tether.svg" alt="bank">
+                      <img class="w-full" src="/assets/img/bank/payanyone.png" alt="bank">
                     </div>
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
-                      USDT(TRC20)
+                      PayAnyone
                     </span>
                   </div>
-                  <div class="bank-info rounded-[5px] overflow-hidden">
+                  <!-- <div class="bank-info rounded-[5px] overflow-hidden">
                     <div class="thumb bg-white 2xl:min-h-[117px] min-h-[80px] flex items-center justify-center">
                       <img class="w-full" src="/assets/img/bank/tether.svg" alt="bank">
                     </div>
@@ -421,7 +421,7 @@
                     <span class="text-white block font-medium text-center py-2 text-xs 2xl:text-base whitespace-nowrap bg-primary">
                       WebMoney
                     </span>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
