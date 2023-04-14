@@ -255,7 +255,7 @@ const toggleDark = useToggle(isDark);
                   <h3 class="p-[20px] text-[18px] text-white font-semibold leading-[1.167] tracking-[-0.06px]">Explained in 100 Seconds</h3>
                   <div class="content">
                     <div class="video-wrap overflow-hidden">
-                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/watch?v=eynxyoKgpng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/embed/_KRelepN4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                   </div>
                 </div>
@@ -265,7 +265,7 @@ const toggleDark = useToggle(isDark);
                   <h3 class="p-[20px] text-[18px] text-white font-semibold leading-[1.167] tracking-[-0.06px]">Explained in 100 Seconds</h3>
                   <div class="content">
                     <div class="video-wrap overflow-hidden">
-                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/watch?v=ttPGkFAROWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/embed/C3KRwfj9F8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                   </div>
                 </div>
@@ -275,7 +275,7 @@ const toggleDark = useToggle(isDark);
                   <h3 class="p-[20px] text-[18px] text-white font-semibold leading-[1.167] tracking-[-0.06px]">Explained in 100 Seconds</h3>
                   <div class="content">
                     <div class="video-wrap overflow-hidden">
-                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/watch?v=C3KRwfj9F8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/embed/PuboYnBc0t8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                   </div>
                 </div>
@@ -285,7 +285,7 @@ const toggleDark = useToggle(isDark);
                   <h3 class="p-[20px] text-[18px] text-white font-semibold leading-[1.167] tracking-[-0.06px]">Explained in 100 Seconds</h3>
                   <div class="content">
                     <div class="video-wrap overflow-hidden">
-                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/watch?v=PuboYnBc0t8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/embed/rNI166nMAFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                   </div>
                 </div>
@@ -295,7 +295,7 @@ const toggleDark = useToggle(isDark);
                   <h3 class="p-[20px] text-[18px] text-white font-semibold leading-[1.167] tracking-[-0.06px]">Explained in 100 Seconds</h3>
                   <div class="content">
                     <div class="video-wrap overflow-hidden">
-                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/watch?v=GS3-fE94jvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/embed/cSWC2WwbhHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                   </div>
                 </div>
@@ -305,7 +305,7 @@ const toggleDark = useToggle(isDark);
                   <h3 class="p-[20px] text-[18px] text-white font-semibold leading-[1.167] tracking-[-0.06px]">Explained in 100 Seconds</h3>
                   <div class="content">
                     <div class="video-wrap overflow-hidden">
-                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/watch?v=_KRelepN4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe class="w-full aspect-video" width="560" height="315" src="https://www.youtube.com/embed/cjoEGsB7ph4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                   </div>
                 </div>
