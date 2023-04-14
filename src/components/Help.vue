@@ -530,7 +530,7 @@ const toggleDark = useToggle(isDark);
                 </div>
               </div>
             </div>
-            <div :class="{'hidden': openTab !== 2, 'block': openTab === 2}">
+            <div :class="{'hidden': openTab !== 1, 'block': openTab === 1}">
               <!-- rules tab-->
               <div
                   class="faq-tab-wrap grid lg:grid-cols-[60%_40%] grid-cols-[1fr] bg-white lg:shadow-[0px_2.13333px_90.6667px_rgba(217,225,255,0.59)] h-[800px] dark:bg-dark dark:shadow-[0px_2.13333px_10.6667px_rgba(217,225,255,0.59)]">
