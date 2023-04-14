@@ -323,14 +323,14 @@ const toggleDark = useToggle(isDark);
                     FAQ
                   </button>
                 </li>
-                <li class="inline-block">
+                <!-- <li class="inline-block">
                   <button
                       class="md:w-[120px] w-[100px] text-center md:text-[16px] text-[13px] md:px-[30px] px-[15px] py-[12px] rounded-[100px] dark:text-white"
                       @click="toggleTabs(2)"
                       :class="{'text-dark': openTab !== 2, 'text-white': openTab === 2}">
                     Rules
                   </button>
-                </li>
+                </li> -->
                 <li class="shape -z-10 absolute left-0 top-0 md:w-[120px] w-[100px] h-[100%] rounded-[100px] bg-primary transition-all duration-300 ease-linear"
                     :class="{'md:translate-x-[120px] translate-x-[100px]': openTab !== 1, 'translate-x-[0]': openTab === 1}"></li>
               </ul>
@@ -615,7 +615,7 @@ const toggleDark = useToggle(isDark);
                     </div>
                   </div> -->
                   <!-- evaluation rules-->
-                  <div
+                  <!-- <div
                       class="faq-toggle-wrap border-[#F2F2F2] border-[1px] shadow-[0px_2.13333px_90.6667px_rgba(217,225,255,0.59)] my-2 dark:bg-toggle dark:shadow-[0px_2.13333px_10.6667px_rgba(217,225,255,0.59)]">
                     <div
                         class="faq-toggle-head flex items-center justify-between py-[16px] px-[32px] cursor-pointer dark:bg-toggle"
@@ -649,7 +649,7 @@ const toggleDark = useToggle(isDark);
                         DO I ACTUALLY TRADE ON A LIVE ACCOUNT?
                       </button>
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
