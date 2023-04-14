@@ -332,7 +332,7 @@ const toggleDark = useToggle(isDark);
                                       <button
                                           class="md:w-[160px] w-[100px] text-center md:text-[16px] text-[13px] md:px-[30px] px-[15px] py-[12px] rounded-[100px]"
                                           @click="toggleTabs2(2)"
-                                          :class="{'text-dark dark:text-white': openTab2 !== 2, 'text-white': openTab2 === 2}">
+                                          :class="{'text-dark dark:text-white': openTab2 !== 1, 'text-white': openTab2 === 2}">
                                         Evaluation
                                       </button>
                                     </li>
@@ -608,7 +608,7 @@ const toggleDark = useToggle(isDark);
                                         </div>
                                       </div>
                                     </div>
-                                    <div class="2xl:w-3/12 xl:w-4/12 lg:w-5/12 md:w-6/12 w-full px-[15px]">
+                                    <!-- <div class="2xl:w-3/12 xl:w-4/12 lg:w-5/12 md:w-6/12 w-full px-[15px]">
                                       <div class="bg-[#F5F9FF] rounded-[10px] mb-[30px]">
                                         <div class="bg-dark p-[25px] rounded-[10px]">
                                           <span class="w-[30px] h-[2px] bg-white block mb-[10px]"></span>
@@ -863,7 +863,7 @@ const toggleDark = useToggle(isDark);
                                           </router-link>
                                         </div>
                                       </div>
-                                    </div>
+                                    </div> -->
                                   </div>
                                 </div>
                               </div>
