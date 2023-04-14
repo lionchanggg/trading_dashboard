@@ -301,19 +301,19 @@
                 <div class="order-list">
                   <div class="flex justify-between items-center border-b border-dark/10 pb-[10px] mb-[10px]">
                     <p class="text-dark/50 text-[16px] font-semibold">Plan</p>
-                    <p class="text-dark/50 text-[16px] font-semibold">Evaluation-15000 USD</p>
+                    <p class="text-dark/50 text-[16px] font-semibold">Evaluation - SGD 25,000</p>
                   </div>
                   <div class="flex justify-between items-center border-b border-dark/10 pb-[10px] mb-[10px]">
                     <p class="text-dark/50 text-[16px] font-semibold">Price</p>
-                    <p class="text-dark/50 text-[16px] font-semibold">$99</p>
+                    <p class="text-dark/50 text-[16px] font-semibold">SGD 249.00</p>
                   </div>
                   <div class="flex justify-between items-center border-b border-dark/10 pb-[10px] mb-[10px]">
                     <p class="text-dark/50 text-[16px] font-semibold">Discount</p>
-                    <p class="text-dark/50 text-[16px] font-semibold">-$0.00</p>
+                    <p class="text-dark/50 text-[16px] font-semibold">-SGD 0.00</p>
                   </div>
                   <div class="flex justify-between items-center">
                     <p class="text-dark text-[16px] font-semibold">Total Amount</p>
-                    <p class="text-dark text-[16px] font-semibold">$99</p>
+                    <p class="text-dark text-[16px] font-semibold">SGD 249.00</p>
                   </div>
                 </div>
               </div>

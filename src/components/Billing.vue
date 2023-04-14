@@ -551,7 +551,7 @@ const toggleDark = useToggle(isDark);
                                           <h3 class="text-white text-[18px] font-medium leading-[1.5] tracking-[-0.06px] uppercase mb-[12px]">
                                             EVALUATION FUND</h3>
                                           <p class="text-white text-[38px] font-semibold leading-[1.5] tracking-[-0.06px] uppercase">
-                                            $25,000</p>
+                                            SGD 25,000</p>
                                         </div>
                                         <div class="content py-[15px] px-[25px]">
                                           <div class="content-list">
@@ -589,7 +589,7 @@ const toggleDark = useToggle(isDark);
                                                 <path
                                                     d="M16.59 7.58L10 14.17l-3.59-3.58L5 12l5 5 8-8zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path>
                                               </svg>
-                                              5 Trading Days
+                                              10 Trading Days
                                             </p>
                                             <p class="relative pl-[25px] py-[10px] text-[#4A485F] text-[15px] leading-[1.5] tracking-[-0.05px] mb-[10px]">
                                               <svg
@@ -598,7 +598,7 @@ const toggleDark = useToggle(isDark);
                                                 <path
                                                     d="M16.59 7.58L10 14.17l-3.59-3.58L5 12l5 5 8-8zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path>
                                               </svg>
-                                              One Time Refundable Fee $199
+                                              One Time Refundable Fee SGD 249
                                             </p>
                                           </div>
                                           <router-link to="/payment"
@@ -615,7 +615,7 @@ const toggleDark = useToggle(isDark);
                                           <h3 class="text-white text-[18px] font-medium leading-[1.5] tracking-[-0.06px] uppercase mb-[12px]">
                                             EVALUATION FUND</h3>
                                           <p class="text-white text-[38px] font-semibold leading-[1.5] tracking-[-0.06px] uppercase">
-                                            $50,000</p>
+                                            SGD 50,000</p>
                                         </div>
                                         <div class="content py-[15px] px-[25px]">
                                           <div class="content-list">
@@ -653,7 +653,7 @@ const toggleDark = useToggle(isDark);
                                                 <path
                                                     d="M16.59 7.58L10 14.17l-3.59-3.58L5 12l5 5 8-8zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path>
                                               </svg>
-                                              5 Trading Days
+                                              10 Trading Days
                                             </p>
                                             <p class="relative pl-[25px] py-[10px] text-[#4A485F] text-[15px] leading-[1.5] tracking-[-0.05px] mb-[10px]">
                                               <svg
@@ -662,7 +662,7 @@ const toggleDark = useToggle(isDark);
                                                 <path
                                                     d="M16.59 7.58L10 14.17l-3.59-3.58L5 12l5 5 8-8zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path>
                                               </svg>
-                                              One Time Refundable Fee $299
+                                              One Time Refundable Fee SGD 499
                                             </p>
                                           </div>
                                           <router-link to="/payment"
